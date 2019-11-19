@@ -1,14 +1,14 @@
-# Citizen Code of Conduct
+# Portland Junior Developers Code of Conduct
 
-## 1. Purpose
+## Purpose
 
-A primary goal of [COMMUNITY_NAME] is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
+A primary goal of Portland Junior Developers is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
 
-We invite all those who participate in [COMMUNITY_NAME] to help us create safe and positive experiences for everyone.
+We invite all those who participate in Portland Junior Developers to help us create safe and positive experiences for everyone.
 
-## 2. Open [Source/Culture/Tech] Citizenship
+## Open [Source/Culture/Tech] Citizenship
 
 A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community.
 
@@ -16,7 +16,7 @@ Communities mirror the societies in which they exist and positive action is esse
 
 If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
 
-## 3. Expected Behavior
+## Expected Behavior
 
 The following behaviors are expected and requested of all community members:
 
@@ -27,27 +27,25 @@ The following behaviors are expected and requested of all community members:
   * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
   * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-## 4. Unacceptable Behavior
+## Unacceptable Behavior
 
-The following behaviors are considered harassment and are unacceptable within our community:
+Unacceptable‭ ‬behaviors‭ ‬include:‭ ‬intimidating,‭ ‬harassing,‭ ‬abusive,‭ ‬discriminatory,‭ ‬derogatory‭ ‬or‭ ‬demeaning‭ ‬speech‭ ‬or‭ ‬actions‭ ‬by‭ ‬any‭ ‬participant‭ ‬in‭ ‬our‭ ‬community‭ ‬online,‭ ‬at‭ ‬all‭ ‬related‭ ‬events‭, ‬and‭ ‬in‭ ‬one-on-one‭ ‬communications‭ ‬carried‭ ‬out‭ ‬in‭ ‬the‭ ‬context‭ ‬of‭ ‬community‭ ‬business.‭ Jokes and attempts at humor that cross into this threshold are not permissible and we ask that attendees exercise appropriate discretion in moments of jest. Regardless of intention, being aggressive, mean, or degrading towards others is also off limits.
 
-  * Violence, threats of violence or violent language directed against another person.
-  * Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-  * Posting or displaying sexually explicit or violent material.
-  * Posting or threatening to post other people's personally identifying information ("doxing").
-  * Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-  * Inappropriate photography or recording.
-  * Inappropriate physical contact. You should have someone's consent before touching them.
-  * Unwelcome sexual attention. This includes, sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-  * Deliberate intimidation, stalking or following (online or in person).
-  * Advocating for, or encouraging, any of the above behavior.
-  * Sustained disruption of community events, including talks and presentations.
+We want Portland Junior Developer activities to remain safe and inclusive for individuals of all gender identities. Failing to refer to other people by their desired pronouns is transphobic and will not be tolerated.
 
-## 5. Weapons Policy
+Harassment‭ ‬includes:‭ ‬harmful‭ ‬or‭ ‬prejudicial‭ ‬verbal‭ ‬or‭ ‬written‭ ‬comments‭ ‬related‭ ‬to‭ ‬gender,‭ ‬sexual‭ ‬orientation,‭ ‬race,‭ ‬religion,‭ ‬disability‭; ‬inappropriate‭ ‬use‭ ‬of‭ ‬nudity‭ ‬and/or‭ ‬sexual‭ ‬images‭ ‬in‭ ‬public‭ ‬spaces‭ (‬including‭ ‬presentation‭ ‬slides‭); ‬deliberate‭ ‬intimidation,‭ ‬stalking‭ ‬or‭ ‬following‭; ‬harassing‭ ‬photography‭ ‬or‭ ‬recording‭; ‬sustained‭ ‬disruption‭ ‬of‭ ‬talks‭ ‬or‭ ‬other‭ ‬events‭; ‬inappropriate‭ ‬physical‭ ‬contact,‭ ‬and‭ ‬unwelcome‭ ‬sexual‭ ‬attention.
 
-No weapons will be allowed at [COMMUNITY_NAME] events, community spaces, or in other spaces covered by the scope of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
+## Consequences of Unacceptable Behavior
 
-## 6. Consequences of Unacceptable Behavior
+Unacceptable‭ ‬behavior‭ ‬from‭ ‬any‭ ‬community‭ ‬member,‭ ‬including‭ ‬sponsors‭ ‬and‭ ‬those‭ ‬with‭ ‬decision-making‭ ‬authority,‭ ‬will‭ ‬not‭ ‬be‭ ‬tolerated.
+
+Anyone‭ ‬asked‭ ‬to‭ ‬stop‭ ‬unacceptable‭ ‬behavior‭ ‬is‭ ‬expected‭ ‬to‭ ‬comply‭ ‬immediately. If‭ ‬a‭ ‬community‭ ‬member‭ ‬engages‭ ‬in‭ ‬unacceptable‭ ‬behavior,‭  the‭ ‬community‭ ‬organizers‭ ‬may‭ ‬take‭ ‬any‭ ‬action‭ ‬they‭ ‬deem‭ ‬appropriate,‭ ‬up‭ ‬to‭ ‬and‭ ‬including‭ ‬a‭ ‬temporary‭ ‬ban‭ ‬or‭ ‬permanent‭ ‬expulsion‭ ‬from‭ ‬the‭ ‬community‭ ‬without‭ ‬warning‭ (‬and‭ ‬without‭ ‬refund‭ ‬in‭ ‬the‭ ‬case‭ ‬of‭ ‬a‭ ‬paid‭ ‬event‭)‬.
+
+## Prohibited Items
+
+Weapons, drugs, and items that possess hypersexualized, violent, and/or hateful imagery or messaging are prohibited at Portland Junior Developer events.
+
+## Consequences of Unacceptable Behavior
 
 Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
 
@@ -55,31 +53,29 @@ Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
 If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event).
 
-## 7. Reporting Guidelines
+## Reporting Guidelines
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible. [CONTACT_INFO_HERE].
+If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community organizer as soon as possible.
 
 [LINK_TO_REPORTING_GUIDELINES]
 
 Additionally, community organizers are available to help community members engage with local law enforcement or to otherwise help those experiencing unacceptable behavior feel safe. In the context of in-person events, organizers will also provide escorts as desired by the person experiencing distress.
 
-## 8. Addressing Grievances
+## Addressing Grievances
 
-If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify [GOVERNING_BODY] with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
+If you feel you have been falsely or unfairly accused of violating this Code of Conduct, you should notify a Portland Junior Developers organizer with a concise description of your grievance. Your grievance will be handled in accordance with our existing governing policies. [LINK_TO_POLICY]
 
-[NOTE: Every organization's governing policies should dictate how you handle warnings and expulsions of community members. It is strongly recommended that you mention those policies here or in Section 7 and that you include a mechanism for addressing grievances.]
+## Scope
 
-## 9. Scope
-
-We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues--online and in-person--as well as in all one-on-one communications pertaining to community business.
+We expect all community participants (contributors, paid or otherwise; sponsors; and other guests) to abide by this Code of Conduct in all community venues -- online and in-person -- as well as in all one-on-one communications pertaining to community business.
 
 This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to adversely affect the safety and well-being of community members.
 
-## 10. Contact info
+## Contact info
 
-[YOUR CONTACT INFO HERE -- this should be a single person or a small team who can respond to issues directly]
+Kelly at (541)539-0439 / kdv@me.com
 
-## 11. License and attribution
+## License and attribution
 
 The Citizen Code of Conduct is distributed by [Stumptown Syndicate](http://stumptownsyndicate.org) under a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
